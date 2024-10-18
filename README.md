@@ -8,11 +8,8 @@
 
 ### Requisitos Previos:
 
-### Para ejecutar este proyecto, necesitas tener instaladas las siguientes dependencias:
+### Para ejecutar este proyecto, necesitas tener instaladas las dependencias localizadas en el archivo requirements.txt
 
-### Python 3.x
-
-### Flask
     Módulos adicionales importados en el proyecto (aplication.controllers.API_DATA, aplication.integrations.dgii_integration, etc.).
 
     Además, asegúrate de que los siguientes elementos estén correctamente configurados:
