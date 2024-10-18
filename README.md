@@ -12,11 +12,15 @@
 
 #### De igual manera debes contar con:
 
-#####Python 3.x 
-#####PostgreSQL
-#####Certificado P12 el cual lo otorga la DGII
-#####Un ERP en el cual facturar, se necesita para hacer la conexión con esta API
-#####Conocimientos intermedio de POO
+Python 3.x 
+
+PostgreSQL
+
+Certificado P12 el cual lo otorga la DGII
+
+Un ERP en el cual facturar, se necesita para hacer la conexión con esta API
+
+Conocimientos intermedio de POO
 
 
 
