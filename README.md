@@ -10,6 +10,16 @@
 
 ### Para ejecutar este proyecto, necesitas tener instaladas las dependencias localizadas en el archivo requirements.txt
 
+#### De igual manera debes contar con:
+
+#####Python 3.x 
+#####PostgreSQL
+#####Certificado P12 el cual lo otorga la DGII
+#####Un ERP en el cual facturar, se necesita para hacer la conexión con esta API
+#####Conocimientos intermedio de POO
+
+
+
     Módulos adicionales importados en el proyecto (aplication.controllers.API_DATA, aplication.integrations.dgii_integration, etc.).
 
     Además, asegúrate de que los siguientes elementos estén correctamente configurados:
